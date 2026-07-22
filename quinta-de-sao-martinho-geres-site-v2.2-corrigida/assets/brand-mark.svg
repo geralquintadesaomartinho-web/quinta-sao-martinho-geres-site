@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 390" role="img" aria-label="Símbolo da Quinta de São Martinho">
+  <defs>
+    <style>
+      .line{fill:none;stroke:#2f4436;stroke-width:10;stroke-linecap:round;stroke-linejoin:round}
+      .gold{fill:#b38a3d}
+      .green{fill:#2f4436}
+    </style>
+  </defs>
+  <path class="line" d="M65 104h190v142c0 66-47 104-95 129-48-25-95-63-95-129z"/>
+  <path class="line" d="M160 104v235"/>
+  <path class="line" d="M73 96c14-28 28-37 43-17 13-31 29-31 44 0 14-31 31-31 45 0 14-20 28-11 42 17"/>
+  <circle class="gold" cx="96" cy="169" r="14"/>
+  <circle class="gold" cx="127" cy="214" r="14"/>
+  <circle class="gold" cx="96" cy="265" r="14"/>
+  <circle class="gold" cx="127" cy="306" r="14"/>
+  <path class="green" d="M193 169c23-18 43-18 64 0-21 18-41 18-64 0zm0 54c23-18 43-18 64 0-21 18-41 18-64 0zm0 54c23-18 43-18 64 0-21 18-41 18-64 0z"/>
+</svg>

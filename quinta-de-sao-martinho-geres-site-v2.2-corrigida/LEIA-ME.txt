@@ -1,0 +1,13 @@
+QUINTA DE SÃO MARTINHO — WEBSITE V2.2
+
+ALTERAÇÕES DA V2.2
+- Atualização do texto sobre a celebração de São Martinho: 11 de novembro, com magusto (castanhas assadas e vinho).
+- Atualização do link e da localização do Google Maps para a ficha correta da Quinta de São Martinho - Gerês.
+- Nenhuma outra alteração ao conteúdo, às fotografias ou ao design.
+
+COMO PUBLICAR
+1. Abrir Workers & Pages.
+2. Selecionar o projeto quinta-de-sao-martinho-geres.
+3. Abrir Deployments.
+4. Escolher Create deployment.
+5. Fazer upload deste ZIP e confirmar Deploy.
